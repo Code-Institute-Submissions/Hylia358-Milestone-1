@@ -1,0 +1,75 @@
+
+/*---------------------------------------------------------------------Colors*/
+
+nav {
+    background-color: #800020;
+}
+
+#dropdown-target {
+    background-color: #800020;
+}
+
+.tag-div {
+    background-color: #800020;
+    color: #ffffff;
+}
+
+.top-centre {
+    color: #ffffff;
+}
+
+/*---------------------------------------------------------------------Images*/
+
+.home-hero {
+    width: 360px;
+    height: 560px;
+    margin-left: -15px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.top-centre {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 35px;
+}
+
+/*---------------------------------------------------------------------Header*/
+
+.nav-item {
+    text-align: center;
+}
+
+nav {
+    height: 60px;
+    width: 100%;
+    z-index: 999;
+}
+
+.navbar-brand {
+    font-size: 150%;
+}
+
+#dropdown-target {
+    margin-top: 5px;
+}
+
+
+/*---------------------------------------------------------------------General*/
+
+.tag-div {
+    font-size: 30px;
+    text-align: center;
+    height: 120px;
+}
+
+.home-sale {
+    font-size: 38px;
+}
+
+/*---------------------------------------------------------------------Media Q*/
+
