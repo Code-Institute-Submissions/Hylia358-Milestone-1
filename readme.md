@@ -64,7 +64,7 @@ In particular, you should provide all details of the differences between the dep
 Different values for environment variables (Heroku Config Vars)? Different configuration files? Separate git branch? In addition, if it is not obvious, you should also describe how to run your code locally.
 
 # Credits
-The Photos used in this project were obtained from Google Images. Content The text for section Y was copied from the Wikipedia article Z Media
+The Photos used in this project were obtained from Google Images.
 
 # Acknowledgements
 I received inspriation for this project by looking at many local gyms in my area:

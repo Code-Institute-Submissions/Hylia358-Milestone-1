@@ -9,7 +9,7 @@ nav {
     background-color: #800020;
 }
 
-.tag-div {
+.tag-div, .gallery-footer {
     background-color: #800020;
     color: #ffffff;
 }
@@ -37,6 +37,13 @@ nav {
   right: 16px;
   font-size: 35px;
 }
+
+.gallery-img {
+position: relative;
+width: 360px;
+height: 221px;
+}
+
 
 /*---------------------------------------------------------------------Header*/
 
@@ -69,6 +76,11 @@ nav {
 
 .home-sale {
     font-size: 38px;
+}
+
+.gallery-footer {
+    height: 80px;
+    width: 100%;
 }
 
 /*---------------------------------------------------------------------Media Q*/
