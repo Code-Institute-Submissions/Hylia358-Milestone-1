@@ -27,6 +27,16 @@ nav {
     background-color: #ffffff;
     color: #800020;
 }
+
+.price-2 {
+    background-color: #ffffff;
+    color: #800020;
+}
+
+.price-3 {
+    background-color: #ffffff;
+    color: #800020;
+}
 /*---------------------------------------------------------------------Images*/
 
 .home-hero {
@@ -119,6 +129,28 @@ nav {
     margin-right: auto;
     display: block;
     margin-top: 100px;
+}
+
+.price-2 {
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 48px;
+}
+
+.price-3 {
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 18px;
 }
 /*---------------------------------------------------------------------footer*/
 
