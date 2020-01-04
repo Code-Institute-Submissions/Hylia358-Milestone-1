@@ -40,6 +40,14 @@ Work wireframe
 ## Surface
 The Burgundy/White Color Scheme Was chosen to be a bright and grasping background to draw the users eyes towards detailed information.
 
+In the memberships tab i changed the dumbell colors that sit at the top of their divs to their tier color.
+
+Bronze - #cd7f32
+
+Silver - #aaa9ad
+
+Gold - #ffd700
+
 # Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 

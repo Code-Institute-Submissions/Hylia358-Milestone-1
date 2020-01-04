@@ -37,6 +37,18 @@ nav {
     background-color: #ffffff;
     color: #800020;
 }
+
+.bronze {
+    color: #cd7f32; 
+}
+
+.silver {
+    color: #aaa9ad;
+}
+
+.gold {
+    color: #ffd700;
+}
 /*---------------------------------------------------------------------Images*/
 
 .home-hero {
