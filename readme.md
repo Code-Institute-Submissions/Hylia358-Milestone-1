@@ -74,6 +74,10 @@ Different values for environment variables (Heroku Config Vars)? Different confi
 # Credits
 The Photos used in this project were obtained from Google Images.
 
+The Navbar was taken from Bootstrap.
+
+The Modal was taken from bootstrap. 
+
 # Acknowledgements
 I received inspriation for this project by looking at many local gyms in my area:
 

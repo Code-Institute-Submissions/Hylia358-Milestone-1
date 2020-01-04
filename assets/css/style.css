@@ -23,17 +23,7 @@ nav {
     color: #ffffff;
 }
 
-.price {
-    background-color: #ffffff;
-    color: #800020;
-}
-
-.price-2 {
-    background-color: #ffffff;
-    color: #800020;
-}
-
-.price-3 {
+.price-help {
     background-color: #ffffff;
     color: #800020;
 }
@@ -136,7 +126,6 @@ nav {
     width: 50%;
     height: 50px;
     text-align: center;
-    font-size: 32px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -147,7 +136,6 @@ nav {
     width: 50%;
     height: 50px;
     text-align: center;
-    font-size: 32px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -158,12 +146,17 @@ nav {
     width: 50%;
     height: 50px;
     text-align: center;
-    font-size: 32px;
     margin-left: auto;
     margin-right: auto;
     display: block;
     margin-top: 18px;
 }
+
+.price-help {
+    font-size: 32px;
+    text-decoration: none;
+    border: none;
+    }
 /*---------------------------------------------------------------------footer*/
 
 .home-sale {
