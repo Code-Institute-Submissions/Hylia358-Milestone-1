@@ -18,12 +18,17 @@ nav {
     color: #ffffff;
 }
 
-.membership {
+.membership, .membership-3 {
     background-color: #800020;
     color: #ffffff;
 }
 
 .price-help {
+    background-color: #ffffff;
+    color: #800020;
+}
+
+.price-help:enabled {
     background-color: #ffffff;
     color: #800020;
 }
@@ -38,6 +43,14 @@ nav {
 
 .gold {
     color: #ffd700;
+}
+
+.social-links {
+    color: #ffffff;
+}
+
+.social-links:visited {
+    color: #ffffff;
 }
 /*---------------------------------------------------------------------Images*/
 
@@ -80,6 +93,7 @@ nav {
 
 .navbar-brand {
     font-size: 150%;
+    font-family: 'Roboto', sans-serif;
 }
 
 #dropdown-target {
@@ -103,6 +117,17 @@ nav {
     height: 480px;
     position: relative;
     margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.membership-3 {
+     margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 260px;
+    height: 480px;
+    position: relative;
+    margin-top: -190px;
     margin-bottom: 15px;
 }
 
@@ -157,6 +182,35 @@ nav {
     text-decoration: none;
     border: none;
     }
+
+.about {
+    text-align: center;
+}
+
+.about-header {
+    padding-top: 10px;
+}
+
+.about-content {
+    margin-top: 50px;
+}
+
+.social-links {
+    font-size: 50px;
+}
+
+.mapouter {
+    position:relative;
+    text-align:right;
+    height:400px;
+    width:260px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:400px;
+    width:260px;
+}
 /*---------------------------------------------------------------------footer*/
 
 .home-sale {
@@ -167,4 +221,3 @@ nav {
     height: 80px;
     width: 100%;
 }
-
