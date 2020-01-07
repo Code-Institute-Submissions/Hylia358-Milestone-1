@@ -27,13 +27,13 @@ For Customers, I wanted to provide them with a detailed overview of our membersh
 In the Memberships page, I wanted them to be able to quickly see each of the paid memberships that are offered, a summary of what they offer in benefits. In the About Us page I wanted them to have the information needed to find us, Know when we are open for business and have links to our social platforms to stay updated on news.
 
 ## Skeleton
-[Main Page Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Main%20Page.pdf)
+[Main Page Wireframe](https://www.figma.com/file/RpFXX9KV2ZjcygWEkqV0i6/Viking-Fitness-Main-Page?node-id=0%3A1)
 
-[Gallery Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Gallery.pdf)
+[Gallery Wireframe](https://www.figma.com/file/RpFXX9KV2ZjcygWEkqV0i6/Viking-Fitness-Main-Page?node-id=4%3A0)
 
-[Memberships Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Memberships.pdf)
+[Memberships Wireframe](https://www.figma.com/file/RpFXX9KV2ZjcygWEkqV0i6/Viking-Fitness-Main-Page?node-id=5%3A3)
 
-[About Us Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20About%20Us.pdf)
+[About Us Wireframe](https://www.figma.com/file/RpFXX9KV2ZjcygWEkqV0i6/Viking-Fitness-Main-Page?node-id=14%3A3)
 
 ### Surface
 The Burgundy/White Color Scheme Was chosen to be a bright and grasping background to draw the users eyes towards detailed information.
