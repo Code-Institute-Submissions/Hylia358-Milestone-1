@@ -12,18 +12,18 @@ This Is a Fitness Centre Website to present to new and old customers. The websit
 
 # UX
 
-## User stories
+### User stories
 As a Customer, I expect to see a detailed list of what memberships are offered, how much they will cost and what I will get out of it.
 
 As a PT Instructor, I expect to know what I have to help the customers with based on their membership tier whether it be swimming lessons, yoga or workout regimes.
 
-## Strategy
+### Strategy
 I wanted to make this site very minimalistic and show only what was needed to get a message across, while also making it easy to use and very user-friendly.
 
-## Scope
+### Scope
 For Customers, I wanted to provide them with a detailed overview of our membership tiers, what each tier will provide in benefits, also for them to get a glimpse at people working out at the gym from the pictures and so they understand where we are located and what time they can access the gym.
 
-## Structure
+### Structure
 In the Memberships page, I wanted them to be able to quickly see each of the paid memberships that are offered, a summary of what they offer in benefits. In the About Us page I wanted them to have the information needed to find us, Know when we are open for business and have links to our social platforms to stay updated on news.
 
 ## Skeleton
@@ -39,6 +39,10 @@ Work wireframe
 
 ## Surface
 The Burgundy/White Color Scheme Was chosen to be a bright and grasping background to draw the users eyes towards detailed information.
+
+Burgundy - #800020
+
+White - #ffffff
 
 In the memberships tab i changed the dumbell colors that sit at the top of their divs to their tier color.
 
