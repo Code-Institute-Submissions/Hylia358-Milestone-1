@@ -29,11 +29,11 @@ In the Memberships page, I wanted them to be able to quickly see each of the pai
 ## Skeleton
 [Main Page Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Main%20Page.pdf)
 
-[Gallery Wireframe] (https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Gallery.pdf)
+[Gallery Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Gallery.pdf)
 
-[Memberships Wireframe] (https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Memberships.pdf)
+[Memberships Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20Memberships.pdf)
 
-[About Us Wireframe] (https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20About%20Us.pdf)
+[About Us Wireframe](https://github.com/Hylia358/Milestone-1/blob/master/assets/wireframes/Viking%20Fitness%20About%20Us.pdf)
 
 ### Surface
 The Burgundy/White Color Scheme Was chosen to be a bright and grasping background to draw the users eyes towards detailed information.
