@@ -9,7 +9,7 @@ nav {
     background-color: #800020;
 }
 
-.tag-div, .gallery-footer {
+.tag-div, .gallery-footer, .footer-2, .tag-div-about {
     background-color: #800020;
     color: #ffffff;
 }
@@ -210,7 +210,7 @@ nav {
 }
 /*---------------------------------------------------------------------footer*/
 
-.tag-div {
+.tag-div, .tag-div-about {
     font-size: 30px;
     text-align: center;
     height: 120px;
@@ -228,13 +228,14 @@ nav {
 /*---------------------------------------------------------------------Media Queries*/
 
 @media screen and (min-device-width : 768px) and (max-device-width : 1024px) /*tablets*/ {
+    
+    /*home page*/
     nav {
     height: 80px;
     width: 100%;
     z-index: 999;
     }
     
-    /*home page*/
 
     .home-hero {
     width: 1024px;
@@ -326,4 +327,141 @@ nav {
     font-size: 21px;
 }
     
+}
+
+@media screen and (min-device-width : 1025px) /*desktop*/ {
+
+    .footer-2 {
+        margin-top: 897px;
+    }
+
+    .home-hero {
+    width: 2134px;
+    height: 897px;
+    margin-left: -512px;
+    }
+
+    /* gallery */
+
+    .img-1 {
+    position: absolute;
+    width: 750px;
+    height: 500px;
+    left: 0px;
+    top: 62px;
+    margin-top: -2px;
+    }
+
+    .img-2 {
+    position: absolute;
+    width: 765px;
+    height: 500px;
+    left: 740px;
+    top: 62px;
+    margin-top: -2px;
+    }
+
+    .img-3 {
+    position: absolute;
+    width: 630px;
+    height: 500px;
+    left: 1503px;
+    top: 62px;
+    margin-top: -2px;
+    }
+
+    .img-4 {
+    position: absolute;
+    width: 754px;
+    height: 437px;
+    left: 0px;
+    top: 560px;
+    }
+
+    .img-5 {
+    position: absolute;
+    width: 700px;
+    height: 437px;
+    left: 753px;
+    top: 560px;
+    }
+
+    .img-6 {
+    position: absolute;
+    width: 680px;
+    height: 437px;
+    left: 1453px;
+    top: 560px;
+    }
+
+    .gallery-footer {
+        margin-top: 937px
+    }
+
+    /* memberships */
+
+    .bronze-sub {
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    top: 150px;
+    left: 100px;
+    }
+
+    .silver-sub {
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    left: 865px;
+    top: 150px;
+    }
+
+    .gold-sub {
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    left: 1630px;
+    top: 150px;
+    }
+
+    .tier-icon {
+        font-size: 140px;
+        margin-left: 115px;
+    }
+
+    .sub-title {
+        font-size: 40px;
+    }
+
+    .sub-benifits {
+        font-size: 24px;
+    }
+
+
+    .price {
+        margin-top: 200px;
+    }
+
+    .price-2 {
+        margin-top: 130px;
+    }
+
+    .price-3  {
+        margin-top: 95px;
+    }
+
+    .map-responsive {
+    overflow: hidden;
+    padding-bottom: 124%;
+    position: relative;
+    left: 1px;
+    height: 0;
+    }
+
+    .map-responsive iframe {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+    }
 }
